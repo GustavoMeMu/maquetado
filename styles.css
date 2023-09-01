@@ -1,9 +1,7 @@
-* {
-    background-color: rgb(235, 255, 83);
-}
+
 
 body, html {
-    background-color: rgb(240, 240, 30);
+    background-image: url(./fondo.svg);
 }
 #titulo {
     color: rgba(255, 0, 0, 0.795)
